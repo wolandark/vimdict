@@ -89,21 +89,3 @@ command! Dict call GetWord()
 # nnoremap <F2> :Dict<CR>
 
 defcompile
-
-
-
-
-
-
-
-
-
-
-# call setwinvar(g:popup_id, '&wincolor', 'DictPopupColor')
-# if !exists('g:dict_colors')
-# let g:myplugin_option = 'default_value'
-# endif
-
-
-# var dict_popup_fgcolor = 'Black'
-# var dict_popup_bgcolor = 'White'
