@@ -34,7 +34,7 @@ endif
 
 g:loaded_dict = 1
 
-if v:version < 802
+if v:version < 900
 	echo "This plugin requires Vim 8.2 or later"
 	finish
 endif
