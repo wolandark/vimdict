@@ -14,7 +14,7 @@ Example:
 use your favorite plugin manager
 
 # Usage
-Put your cursor on a word and issue `:Dict`. No need to select visually or copy the word etc ... Move the cursor to dismiss the popup or press Esc.
+Put your cursor on a word and issue `:Dict`. (No need to select visually or copy the word etc that's just for the demo)  ... Move the cursor to dismiss the popup or press Esc.
 
 # Configuration 
 You can specify colors for the popup in vimrc, othereise vimdict will use the default highlight group which creates a white on black popup.
