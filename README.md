@@ -25,4 +25,4 @@ let g:dict_popup_bgcolor = 'White'
 ```
 
 # Demo
-![output](https://github.com/wolandark/vimdict/assets/107309764/03e56614-14e9-4508-9872-203f612021af)
+![output1](https://github.com/wolandark/vimdict/assets/107309764/c414e1c6-8700-4da1-8832-46c732431a2f)
