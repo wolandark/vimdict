@@ -16,10 +16,19 @@ If Vim returns `1`, then you have what this plugin needs.
 `pacman -S dict`
 
 # Install VimDict
-use your favorite plugin manager, or:
+use your favorite plugin manager, <br> or:
 ```
 git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/start/vimdict
 ```
+
+or for on-demand loading of the plugin:
+
+```
+git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/opt/vimdict
+```
+for on-deman loading do:
+`:packadd vimdict`
+`:Dict`
 
 # Usage
 Put your cursor on a word and issue `:Dict`, (No need to select visually or copy the word, that's just for the demo). Move the cursor to dismiss the popup or press `Esc`.
