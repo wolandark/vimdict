@@ -18,7 +18,7 @@ If Vim returns `1`, then you have what this plugin needs.
 # Install VimDict
 use your favorite plugin manager, or:
 ```
-git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/start/ 
+git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/start/vimdict
 ```
 
 # Usage
