@@ -29,6 +29,7 @@ git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/opt/vimdi
 for on-deman loading do:
 
 `:packadd vimdict` 
+
 `:Dict`
 
 # Usage
