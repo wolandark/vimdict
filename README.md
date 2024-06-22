@@ -27,7 +27,8 @@ or for on-demand loading of the plugin:
 git clone https://github.com/wolandark/vimdict.git ~/.vim/pack/plugins/opt/vimdict
 ```
 for on-deman loading do:
-`:packadd vimdict`
+
+`:packadd vimdict` 
 `:Dict`
 
 # Usage
